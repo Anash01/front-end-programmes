@@ -1,0 +1,22 @@
+h1
+{
+	color: rgba(0, 0, 255, 0.8);
+	border: 2px dashed red;
+}
+
+li
+{
+	color: purple;
+}
+
+h4
+{
+	background: lightblue;
+	color: orange;
+}
+body
+{
+	
+	background: pink;
+
+}
